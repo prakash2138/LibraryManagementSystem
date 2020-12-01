@@ -5,10 +5,6 @@
  */
 package com.prakash.librarymanagement;
 
-/**
- *
- * @author laxmi
- */
 public class AdminSection extends javax.swing.JFrame {
 
     /**

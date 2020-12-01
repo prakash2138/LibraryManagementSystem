@@ -5,10 +5,6 @@
  */
 package com.connection;
 
-/**
- *
- * @author laxmi
- */
 public class TestCon {
     public static void main(String[] args) {
         System.out.println("Connection = " + ConnectionProvider.getConnection());

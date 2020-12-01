@@ -11,10 +11,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author laxmi
- */
 public class ReturnBook extends javax.swing.JFrame {
 
     /**

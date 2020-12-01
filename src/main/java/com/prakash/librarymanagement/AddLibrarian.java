@@ -11,10 +11,6 @@ import java.sql.PreparedStatement;
 import java.sql.Statement;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author laxmi
- */
 public class AddLibrarian extends javax.swing.JFrame {
 
     /**

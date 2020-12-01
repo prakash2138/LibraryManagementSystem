@@ -12,10 +12,6 @@ import java.sql.ResultSet;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author laxmi
- */
 public class ViewLibrarian extends javax.swing.JFrame {
 
     /**

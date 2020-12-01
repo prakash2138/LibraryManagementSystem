@@ -7,10 +7,6 @@ package com.prakash.librarymanagement;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author laxmi
- */
 public class Home extends javax.swing.JFrame {
 
     /**

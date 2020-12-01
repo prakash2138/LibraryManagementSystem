@@ -8,10 +8,6 @@ package com.connection;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
-/**
- *
- * @author laxmi
- */
 public class ConnectionProvider {
 
     public static Connection con = null;

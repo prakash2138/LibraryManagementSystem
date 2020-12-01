@@ -10,10 +10,6 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author laxmi
- */
 public class AddBooks extends javax.swing.JFrame {
 
     /**
